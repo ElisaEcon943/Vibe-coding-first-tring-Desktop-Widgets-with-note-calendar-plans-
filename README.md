@@ -94,7 +94,7 @@ Stay in your flow.
 
 ## 🚀 快速开始 / Quick Start
 
-### 方式一 · 免安装版（推荐普通用户）/ Pre-built Binary (Recommended)
+### 方式一 · 免安装版/ Pre-built Binary (Recommended)
 
 前往 [Releases 页面](../../releases) 下载对应系统的可执行文件，**双击直接运行**，无需安装 Python。
 
@@ -103,8 +103,6 @@ Go to the [Releases page](../../releases) and download the binary for your OS. *
 | 系统 / OS | 文件 / File |
 |-----------|-------------|
 | Windows | `桌面挂件.exe` |
-| macOS | `桌面挂件.app` |
-| Linux | `桌面挂件`（需 `chmod +x`） |
 
 > 💾 数据保存在 `~/.desktop_widgets/`，重装不丢失。  
 > Data is saved to `~/.desktop_widgets/` and persists across reinstalls.
